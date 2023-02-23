@@ -1,0 +1,13 @@
+# Mac file system
+**/.DS_Store/
+
+# JetBrains
+.idea/
+*.DotSettings.user
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Living documentation output
+LivingDoc.html

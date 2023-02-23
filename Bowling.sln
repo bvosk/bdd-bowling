@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.SpecFlow", "Bowling.SpecFlow\Bowling.SpecFlow.csproj", "{40558DE2-0F1A-44E0-BDBE-DDA8DD7A049B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Application", "Bowling.Application\Bowling.Application.csproj", "{DA60A703-9B9A-450E-ABC6-E6AA6B7D62F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40558DE2-0F1A-44E0-BDBE-DDA8DD7A049B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40558DE2-0F1A-44E0-BDBE-DDA8DD7A049B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40558DE2-0F1A-44E0-BDBE-DDA8DD7A049B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40558DE2-0F1A-44E0-BDBE-DDA8DD7A049B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA60A703-9B9A-450E-ABC6-E6AA6B7D62F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA60A703-9B9A-450E-ABC6-E6AA6B7D62F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA60A703-9B9A-450E-ABC6-E6AA6B7D62F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA60A703-9B9A-450E-ABC6-E6AA6B7D62F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
