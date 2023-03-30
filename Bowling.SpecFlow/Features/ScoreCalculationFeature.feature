@@ -17,6 +17,7 @@ Feature: Score Calculation
     And I roll 8 times 1 and 1
     Then my total score should be 32
 
+  @BP-1
   Scenario: Another beginners game
     Given a new bowling game
     When I roll the following series:2,7,3,4,1,1,5,1,1,1,1,1,1,1,1,1,1,1,5,1
