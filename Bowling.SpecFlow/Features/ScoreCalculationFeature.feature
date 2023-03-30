@@ -4,7 +4,6 @@ Feature: Score Calculation
   As a player
   I want the system to calculate my total score
 
-  @BP-1
   Scenario: Gutter game
     Given a new bowling game
     When all of my balls are landing in the gutter
