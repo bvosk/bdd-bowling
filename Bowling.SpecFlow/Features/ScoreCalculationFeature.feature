@@ -9,6 +9,7 @@ Feature: Score Calculation
     When all of my balls are landing in the gutter
     Then my total score should be 0
 
+  @BP-1
   Scenario: Beginners game
     Given a new bowling game
     When I roll 2 and 7
